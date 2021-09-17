@@ -1,3 +1,18 @@
+'''Caso queira testar a página de erro você pode usar:
+-localhost:porta
+--localhost:porta/Servidor/paginas/arquivo_fora_do_servidor
+--localhost:porta/arquivo_fora_do_servidor
+
+Página Default Aparece com:
+--localhost:porta/Servidor/paginas/
+
+Páginas aparece no Servidor com:
+	--localhost:porta/Servidor/paginas/arquivo_dentro_do_servidor
+	--localhost:porta/arquivo_dentro_do_servidor
+'''
+
+
+
 lista_arquivos=['index.html','colorido.jpg',
 'fantasy.png',
 'minion.jpg',
@@ -7,8 +22,3 @@ caminho_arq=  './Servidor/paginas/'
 porta = 8080
 
 Pagina_Erro = './arquivos_base/erro.html'
-#GET ./Servidor/paginas/fantasy.png HTTP/1.1
-#GET ./Servidor/paginas/teste1.html HTTP/1.1
-#GET ./Servidor/paginas/colorido.jpg HTTP/1.1
-#GET ./Servidor/paginas/toushirou.gif HTTP/1.1\r\n\r\n
-#'GET ./Servidor/paginas/bonequinho.js HTTP/1.1'
