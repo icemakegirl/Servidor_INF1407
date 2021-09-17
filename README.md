@@ -6,6 +6,16 @@ Para rodar o arquivo utilize:
 --python3 Servidor.py
 ###
 --Caso não seja permitido o uso da porta default do servidor a função BindaSocket permite que você de input de outra porta, mas é feito pelo terminal do servidor
+###
+
+--Existem 3 arquivos dentro da pasta arquivos_base
+###
+1ª é o de arquivo de configuracao
+###
+2ª é o arquivo que contem todas as funcoes usadas no Servidor.py
+###
+3ª é o arquivo de erro
+
 
 Resumo da Implementacao
 =================
