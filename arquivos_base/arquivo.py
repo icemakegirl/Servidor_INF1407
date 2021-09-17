@@ -17,7 +17,6 @@ lista_arquivos=['index.html','colorido.jpg',
 'fantasy.png',
 'minion.jpg',
 'teste1.html','toushirou.gif','bonequinho.js','download.jpeg']
-host = 'localhost'
 caminho_arq=  './Servidor/paginas/'
 porta = 8080
 
