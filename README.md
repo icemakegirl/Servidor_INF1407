@@ -1,6 +1,8 @@
 # Servidor_INF1407
 Aluna: Joanne Carneiro - Matrícula: 1820362
 #####
+Link: git clone https://github.com/icemakegirl/Servidor_INF1407.git
+###
 Para rodar o arquivo utilize:
 ####
 --python3 Servidor.py
